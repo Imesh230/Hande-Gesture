@@ -20,3 +20,7 @@ OpenCV: For providing powerful computer vision functionalities.
 MediaPipe: For its advanced hand tracking and landmark detection capabilities.
 PyAutoGUI: For enabling seamless control of system functions.
 Check it out here: Hand Gesture Volume Control 💻🎉
+
+
+![Uploading WhatsApp Image 2024-07-26 at 00.27.14_1327e688.jpg…]()
+
