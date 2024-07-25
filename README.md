@@ -1,4 +1,4 @@
-# hand-gesture-volume-control
+![WhatsApp Image 2024-07-26 at 00 27 14_1327e688](https://github.com/user-attachments/assets/c9196731-db8f-4b09-82d3-0307fab0995b)# hand-gesture-volume-control
 
 Overview
 This project demonstrates how to control the system volume using hand gestures, implemented with Python and the OpenCV library.
@@ -22,5 +22,5 @@ PyAutoGUI: For enabling seamless control of system functions.
 Check it out here: Hand Gesture Volume Control 💻🎉
 
 
-![Uploading WhatsApp Image 2024-07-26 at 00.27.14_1327e688.jpg…]()
+![WhatsApp Image 2024-07-26 at 00 27 14_1327e688](https://github.com/user-attachments/assets/44a0e664-05fa-4263-9e94-c0c3d3b98d95)
 
